@@ -303,7 +303,7 @@
         "1",
         "0",
         "2",
-        "4"
+        "3"
       ],
       "content": {
         "0": {
@@ -323,9 +323,9 @@
           "bbox": {},
           "setting": {}
         },
-        "4": {
+        "3": {
           "type": "WIDGET",
-          "widgetId": "widget_248",
+          "widgetId": "widget_275",
           "bbox": {},
           "setting": {}
         }
@@ -3203,12 +3203,6 @@
     },
     "layout_244": {
       "content": {
-        "0": {
-          "type": "WIDGET",
-          "widgetId": "widget_275",
-          "bbox": {},
-          "setting": {}
-        },
         "1": {
           "type": "WIDGET",
           "widgetId": "widget_276",
@@ -3220,14 +3214,20 @@
           "widgetId": "widget_299",
           "bbox": {},
           "setting": {}
+        },
+        "3": {
+          "type": "WIDGET",
+          "widgetId": "widget_248",
+          "bbox": {},
+          "setting": {}
         }
       },
       "type": "FIXED",
       "label": "Controller layout",
       "order": [
-        "0",
         "1",
-        "2"
+        "2",
+        "3"
       ]
     },
     "layout_245": {
@@ -10538,7 +10538,7 @@
   "attributes": {
     "portalUrl": "https://trafficpd.maps.arcgis.com"
   },
-  "timestamp": 1775503672211,
+  "timestamp": 1776106660614,
   "sharedThemeVariables": null,
   "dataSources": {
     "dataSource_1": {

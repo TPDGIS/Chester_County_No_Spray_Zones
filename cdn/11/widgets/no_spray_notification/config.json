@@ -1,0 +1,6 @@
+{
+  "useMapWidgetIds": [],
+  "noSprayLayerUrl": "https://services9.arcgis.com/izXUvkghw2ajVOfV/arcgis/rest/services/Chester_County_No_Spray_Zones_3_23_2026_WFL1/FeatureServer/2",
+  "geocodeApiKey": "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6ImZhMjIxNDQyMGNlNTQyOWM4MDg5MDkwZDA1ZWJkMzVkIiwiaCI6Im11cm11cjY0In0=",
+  "registryUrl": "https://www.pa.gov/agencies/pda/plants-land-water/plant-industry/pesticide-programs/pesticide-hypersensitivity-registry.html"
+}

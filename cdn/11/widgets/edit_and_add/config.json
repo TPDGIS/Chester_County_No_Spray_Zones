@@ -1,0 +1,7 @@
+{
+  "useMapWidgetIds": [],
+  "pointLayerDataSourceA": null,
+  "pointLayerDataSourceB": null,
+  "autoPolygonDataSource": null,
+  "bufferDistanceFeet": 500
+}

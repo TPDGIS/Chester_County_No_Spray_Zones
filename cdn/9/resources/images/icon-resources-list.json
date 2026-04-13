@@ -1,0 +1,40 @@
+{
+  "1774274409464.jpg": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1774274409464.jpg",
+    "properties": {
+      "filename": "1774274409464.jpg",
+      "originalName": "Bridge1.jpg",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1774274409464.jpg",
+      "inlineSvg": false
+    }
+  },
+  "1775243355637.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1775243355637.png",
+    "properties": {
+      "filename": "1775243355637.png",
+      "originalName": "No Spray.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1775243355637.png",
+      "inlineSvg": false
+    }
+  },
+  "1775243847257.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1775243847257.png",
+    "properties": {
+      "filename": "1775243847257.png",
+      "originalName": "No Spray.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1775243847257.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1775483731329.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1775483731329.png",
+    "properties": {
+      "filename": "1775483731329.png",
+      "originalName": "overlapping_circles_24px_white_thin.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1775483731329.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

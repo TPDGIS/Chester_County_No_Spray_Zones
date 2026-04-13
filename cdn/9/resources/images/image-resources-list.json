@@ -1,0 +1,28 @@
+{
+  "1774273067723": {
+    "originalName": "Screenshot 2025-01-08 160038.png",
+    "fileName": "1774273067723.png",
+    "size": 8384,
+    "url": "${appResourceUrl}/images/widget_49/1774273067723.png",
+    "created": 1774273067723,
+    "resourcesPrefix": "images/widget_49",
+    "referredIds": [],
+    "originId": "1774273067723",
+    "fileFormat": "image/png",
+    "originalWidth": 267,
+    "originalHeight": 213
+  },
+  "1775234280938": {
+    "originalName": "TPD.png",
+    "fileName": "1775234280938.png",
+    "size": 27577,
+    "url": "${appResourceUrl}/images/widget_49/1775234280938.png",
+    "created": 1775234280938,
+    "resourcesPrefix": "images/widget_49",
+    "referredIds": [],
+    "originId": "1775234280938",
+    "fileFormat": "image/png",
+    "originalWidth": 525,
+    "originalHeight": 323
+  }
+}
